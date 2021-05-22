@@ -1,0 +1,55 @@
+
+.PortfolioLayout
+{
+    background-color: aqua;
+    margin: auto;
+}
+.aboutImage
+{
+    height: auto;
+    width: 150px;
+    margin-top: 10px;
+}
+.contact
+{
+    margin-left: 15px;
+}
+.social
+{
+    margin-left: 15px;
+}
+header
+{
+    position: fixed;
+    width: 98.56%;
+    top: 0;
+    align-items: center;
+    background-color: darkcyan;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+main
+{
+    padding-top: 60px;
+    width: 80%;
+    margin: 20px;
+}
+nav
+{
+    padding-right: 20px;
+}
+h1
+{
+    color: whitesmoke;
+}
+nav a 
+{
+    color: white;
+}
+h2
+{
+    text-align: center;
+}
+
+
